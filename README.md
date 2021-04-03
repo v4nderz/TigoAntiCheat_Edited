@@ -1,4 +1,4 @@
-# FiveM AntiCheat by Tigo
+# FiveM AntiCheat by Tigo | Edited by v4nder#7532
 
 [![Thymon](https://i.imgur.com/3EquTNl.jpg)](https://www.tigodev.com)
 
